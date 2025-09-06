@@ -1,0 +1,1 @@
+We'll see how this project evolves (very much a side project), but the goal is to take in sewing pattern pdfs and conver them to something that can be easily viewed in 3D. Lots of plans, but for now we're just hoping to get something started.
